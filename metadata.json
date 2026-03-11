@@ -1,7 +1,0 @@
-{
-  "name": "Chấm Toán AI - Trợ Lý Giáo Viên",
-  "description": "Công cụ chấm bài toán thông minh sử dụng Gemini AI. Hỗ trợ nhập đề bài bằng văn bản hoặc hình ảnh, chấm điểm chi tiết trên ảnh bài làm của học sinh, cung cấp lời giải và nhận xét chuyên sâu.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
